@@ -1,8 +1,15 @@
 <p align="center">
-    <img src="https://github.com/Ingridentify/Ingridentify/blob/dev/app/src/main/res/drawable/typography_color.png?raw=true"  width="400" height="200">
+    <img src="https://github.com/Ingridentify/Ingridentify/blob/dev/app/src/main/res/drawable/typography_color.png?raw=true"  width="400">
 </p>
 
 # Machine Learning
+
+## Team
+
+| Name                          | Student ID  | Path                 |
+| ----------------------------- | ----------- | -------------------- |
+| Ryan Reynickha Fatullah       | M296BSY1298 | Machine Learning     |
+| Syifa Nur'Afni Hidayat        | M494BSX0800 | Machine Learning     |
 
 ## About The Project 
 In order to create our model, we utilized Machine Learning with the architecture of CNN (Convolutional Neural Network). The dataset we used for training the model is called [Fruit and Vegetables SSM](https://www.kaggle.com/datasets/shadikfaysal/fruit-and-vegetables-ssm).
@@ -76,3 +83,5 @@ Before you start, ensure that you have the following software installed on your 
 - numpy
 - uvicorn[standard]
 - python-multipart
+
+
