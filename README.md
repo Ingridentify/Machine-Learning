@@ -85,5 +85,5 @@ Before you start, ensure that you have the following software installed on your 
 - python-multipart
 
 ### Important Link
--[Capstone Notebook](https://colab.research.google.com/drive/10-Vj-qnpRBRkzFeAxomX0ih3-WGJAkH_?usp=sharing )
--[Dataset](https://www.kaggle.com/datasets/shadikfaysal/fruit-and-vegetables-ssm)
+- [Capstone Notebook](https://colab.research.google.com/drive/10-Vj-qnpRBRkzFeAxomX0ih3-WGJAkH_?usp=sharing )
+- [Dataset](https://www.kaggle.com/datasets/shadikfaysal/fruit-and-vegetables-ssm)
