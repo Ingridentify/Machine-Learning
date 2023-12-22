@@ -42,7 +42,7 @@ we have a endpoint that can be used to classify fruits & vegetables images with 
 - Numpy
 
 
-#Try This Project
+# Try This Project
 Dive into this project and discover its functionalities.
 
 ### Prerequisites
