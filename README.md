@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Ingridentify/Ingridentify/blob/dev/app/src/main/res/drawable/typography_color.png?raw=true"  width="200" height="200">
+    <img src="https://github.com/Ingridentify/Ingridentify/blob/dev/app/src/main/res/drawable/typography_color.png?raw=true"  width="400" height="200">
 </p>
 
 # Machine Learning
