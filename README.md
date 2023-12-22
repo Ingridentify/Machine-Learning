@@ -1,7 +1,6 @@
 # Machine Learning
-Untuk membuat model kami menggunakan Machine learning dengan menggunakan arsitektur dari CNN.
-Dataset yang kami gunakan untuk training model yaitu [Fruit and Vegetables SSM](https://www.kaggle.com/datasets/shadikfaysal/fruit-and-vegetables-ssm). 
-dengan label sebagai berikut :
+In order to create our model, we utilized Machine Learning with the architecture of CNN (Convolutional Neural Network). The dataset we used for training the model is called [Fruit and Vegetables SSM](https://www.kaggle.com/datasets/shadikfaysal/fruit-and-vegetables-ssm)., with the following labels:
+
 - 0 Apple
 - 1 Banana
 - 2 Broccoli
